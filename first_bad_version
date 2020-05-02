@@ -1,0 +1,18 @@
+public class Solution extends VersionControl {
+    public int firstBadVersion(int n) {
+        return search_version(1,n);
+    }
+    public int search_version(int start,int end)
+    {
+        if(start>end){
+            return start;
+        }
+        else{
+            int mid = (end-start)/2+start;
+            if(isBadVersion(mid)==false)
+                return search_version(mid+1,end);
+            else
+                return search_version(start,mid-1);
+        }
+    }
+}
