@@ -9,7 +9,7 @@ call isBadVersion(4) -> true
 
 Then 4 is the first bad version. 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 public class Solution extends VersionControl {
     public int firstBadVersion(int n) {
         return search_version(1,n);
