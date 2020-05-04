@@ -4,8 +4,10 @@
 
 > May LeetCoding Challenge
 
-- Day 1 (Used Binary Search)
+- Day 1 (Binary Search)
 
-- Day 2 (Used Hash Map)
+- Day 2 (Hash Map)
 
-- Day 3 (Used Iterative Comparison) 
+- Day 3 (Iterative Comparison) 
+
+- Day 4 (Complement of a Number)
