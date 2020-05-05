@@ -4,10 +4,12 @@
 
 > May LeetCoding Challenge
 
-- Day 1 (Binary Search)
+- Day 1 (First Bad Version)
 
-- Day 2 (Hash Map)
+- Day 2 (Jewels and Stones)
 
-- Day 3 (Iterative Comparison) 
+- Day 3 (Ransom Note) 
 
 - Day 4 (Complement of a Number)
+
+- Day 5 (First Unique Character of a String)
