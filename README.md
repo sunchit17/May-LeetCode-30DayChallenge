@@ -13,3 +13,5 @@
 - Day 4 (Complement of a Number)
 
 - Day 5 (First Unique Character of a String)
+
+- Day 6 (Majority Element of an Array)
