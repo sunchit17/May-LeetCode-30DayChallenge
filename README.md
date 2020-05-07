@@ -15,3 +15,5 @@
 - Day 5 (First Unique Character of a String)
 
 - Day 6 (Majority Element of an Array)
+
+- Day 7 (Cousins in a Binary Tree)
