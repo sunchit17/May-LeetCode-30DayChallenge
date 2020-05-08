@@ -17,3 +17,5 @@
 - Day 6 (Majority Element of an Array)
 
 - Day 7 (Cousins in a Binary Tree)
+
+- Day 8 (Check for a Straight Line)
