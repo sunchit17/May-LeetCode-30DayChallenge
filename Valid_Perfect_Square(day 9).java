@@ -42,16 +42,16 @@ class Solution {
             return true;
         
         long i = 1, j = num;
-		    while (i <= j) 
+	while (i <= j) 
         {
-			    long mid = i + (j - i) / 2;
-			     if (mid * mid == num)
-				      return true;
-			     else if (mid * mid < num)
-				      i = mid + 1;
-			     else
-				      j = mid - 1;
-	    	}
-		return false;    
+	long mid = i + (j - i) / 2;
+		 if (mid * mid == num)
+		  return true;
+		else if (mid * mid < num)
+		 i = mid + 1;
+		else
+		 j = mid - 1;
+	 }
+	return false;    
     }
 }
