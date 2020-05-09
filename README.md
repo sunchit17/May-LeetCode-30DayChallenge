@@ -1,8 +1,7 @@
 # May-LeetCode-31DayChallenge
 
+### Repository to house the solutions to the 31 day May LeetCode Challenge
 
-
-> May LeetCoding Challenge
 
 - Day 1 (First Bad Version)
 
@@ -19,3 +18,5 @@
 - Day 7 (Cousins in a Binary Tree)
 
 - Day 8 (Check for a Straight Line)
+
+- Day 9 (Perfect Square Checker without sqrt)
