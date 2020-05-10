@@ -20,3 +20,5 @@
 - Day 8 (Check for a Straight Line)
 
 - Day 9 (Perfect Square Checker without sqrt)
+
+- Day 10 (Find the Town Judge)
