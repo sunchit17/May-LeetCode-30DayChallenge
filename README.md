@@ -1,6 +1,6 @@
 # May-LeetCode-31DayChallenge
 
-### Repository to house the solutions to the 31 day May LeetCode Challenge
+### Repository to house the solutions of the 31 day [May LeetCode Challenge](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/)
 
 
 - Day 1 (First Bad Version)
