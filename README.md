@@ -24,3 +24,5 @@
 - Day 10 (Find the Town Judge)
 
 - Day 11 (Flood Fill)
+
+- Day 12 (Single element in a sorted array)
