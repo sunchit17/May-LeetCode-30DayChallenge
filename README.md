@@ -26,3 +26,5 @@
 - Day 11 (Flood Fill)
 
 - Day 12 (Single element in a sorted array)
+
+- Day 13 (Remove K digits)
