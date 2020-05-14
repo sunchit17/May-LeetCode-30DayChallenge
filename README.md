@@ -28,3 +28,5 @@
 - Day 12 (Single element in a sorted array)
 
 - Day 13 (Remove K digits)
+
+- Day 14 (Implement Trie)
