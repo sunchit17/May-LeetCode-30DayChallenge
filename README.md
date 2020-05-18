@@ -19,6 +19,8 @@
 
 - Day 7 (Cousins in a Binary Tree)
 
+***
+
 - Day 8 (Check for a Straight Line)
 
 - Day 9 (Perfect Square Checker without sqrt)
@@ -32,6 +34,8 @@
 - Day 13 (Remove K digits)
 
 - Day 14 (Implement Trie)
+
+***
 
 - Day 15 (Maximum Sum Circular Sub Array)
 
