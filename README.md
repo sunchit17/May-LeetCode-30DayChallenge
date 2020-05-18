@@ -2,6 +2,8 @@
 
 ### Repository to house the solutions of the 31 day [May LeetCode Challenge](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/)
 
+***
+
 
 - Day 1 (First Bad Version)
 
@@ -36,3 +38,5 @@
 - Day 16 (Odd Even Linked List)
 
 - Day 17 (Find all Anagrams in a String)
+
+- Day 18 (Permutation in String)
