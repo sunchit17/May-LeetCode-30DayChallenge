@@ -44,3 +44,5 @@
 - Day 17 (Find all Anagrams in a String)
 
 - Day 18 (Permutation in String)
+
+- Day 19 (Online Stock Span)
