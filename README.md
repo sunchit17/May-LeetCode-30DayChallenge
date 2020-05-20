@@ -46,3 +46,5 @@
 - Day 18 (Permutation in String)
 
 - Day 19 (Online Stock Span)
+
+- Day 20 (Kth Smallest Element in Binary Search Tree)
