@@ -48,3 +48,9 @@
 - Day 19 (Online Stock Span)
 
 - Day 20 (Kth Smallest Element in Binary Search Tree)
+
+- Day 21 (Count Square Submatrices with All Ones)
+
+***
+
+
