@@ -57,3 +57,5 @@
 
 - Day 23 (Interval List Intersections)
 
+- Day 24 (Construct BST from Preorder Traversal)
+
