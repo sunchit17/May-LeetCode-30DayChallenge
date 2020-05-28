@@ -3,7 +3,7 @@
 ### Repository to house the solutions of the 31 day [May LeetCode Challenge](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/)
 
 ***
-
+> Week 1
 
 - Day 1 (First Bad Version)
 
@@ -62,3 +62,11 @@
 - Day 25 (Uncrossed Lines)
 
 - Day 26 (Contiguous Array)
+
+- Day 27 (Possible Bipartition)
+
+- Day 28 (Counting Bits)
+
+***
+
+
