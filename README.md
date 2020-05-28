@@ -20,6 +20,7 @@
 - Day 7 (Cousins in a Binary Tree)
 
 ***
+> Week 2
 
 - Day 8 (Check for a Straight Line)
 
@@ -36,6 +37,7 @@
 - Day 14 (Implement Trie)
 
 ***
+> Week 3
 
 - Day 15 (Maximum Sum Circular Sub Array)
 
@@ -52,6 +54,7 @@
 - Day 21 (Count Square Submatrices with All Ones)
 
 ***
+> Week 4
 
 - Day 22 (Sort Characters by Frequency)
 
@@ -68,5 +71,6 @@
 - Day 28 (Counting Bits)
 
 ***
+> Week 5
 
 
