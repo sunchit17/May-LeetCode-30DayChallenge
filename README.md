@@ -73,4 +73,6 @@
 ***
 > Week 5
 
+- Day 29 (Course Schedule)
+
 
